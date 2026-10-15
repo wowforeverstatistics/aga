@@ -1,0 +1,1 @@
+﻿Role,Filename,RawByteOffset,ByteBefore,ByteAfter,NullTerminated,PrefixU16,PrefixU32,PrefixU16EqualsUtf8Length,PrefixU32EqualsUtf8Length,PrefixU32EqualsUtf8LengthPlusNull,PrefixU32EqualsNegativeLength,RecordBoundaryVerified,EvidenceLevel

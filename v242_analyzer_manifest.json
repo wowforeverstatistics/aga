@@ -1,0 +1,25 @@
+﻿{
+    "Tool":  "AGA v24.2",
+    "Baseline":  "v24.1",
+    "Mode":  "Read-only raw filename record boundary hypothesis investigation",
+    "RawInputBytes":  850734,
+    "HexWindowRadius":  48,
+    "AnchorRows":  0,
+    "PatternRows":  0,
+    "IndexHypothesisRows":  0,
+    "ControlRows":  0,
+    "Errors":  1,
+    "IndependentFilenameStringIndexVerified":  false,
+    "RecordBoundariesVerified":  false,
+    "DirectoryAssociationVerified":  false,
+    "FileToTocOwnershipVerified":  false,
+    "ObjectReferencesVerified":  false,
+    "GameplayFunctionVerified":  false,
+    "GatheringCoordinatesVerified":  false,
+    "Notes":  [
+                  "Full pakchunk300 UTOC read; no UCAS reads",
+                  "Raw filename byte offsets are not independently decoded string-table indices",
+                  "Prefix/terminator checks are descriptive and not validated binary record structures",
+                  "Unrelated controls are observational; absence is not a validation failure"
+              ]
+}
