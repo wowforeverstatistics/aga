@@ -1,1 +1,5 @@
-﻿ControlType,Filename,Expected,RawMatches,FirstRawByteOffset,Passed,EvidenceLevel
+﻿"ControlType","Filename","Expected","RawMatches","FirstRawByteOffset","Passed","EvidenceLevel"
+"UnrelatedRealFilename","CM_M_BASE_Wolf_Special_Howl.uasset","ObservationOnly","1","672285","NotApplicable","RawBytesOnly"
+"UnrelatedRealFilename","ALS_N_Falling_LeanPose_R.uasset","ObservationOnly","1","651024","NotApplicable","RawBytesOnly"
+"UnrelatedRealFilename","CM_M_BASE_Lobby_UnSelected_00.uasset","ObservationOnly","1","529169","NotApplicable","RawBytesOnly"
+"SyntheticAbsentFilename","AGA_V242_SYNTHETIC_NOT_PRESENT_7CBF4A.uasset","ZeroMatches","0","-1","True","SyntheticNegativeControl"

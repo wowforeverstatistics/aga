@@ -1,1 +1,7 @@
-﻿Role,Filename,RawByteOffset,ByteBefore,ByteAfter,NullTerminated,PrefixU16,PrefixU32,PrefixU16EqualsUtf8Length,PrefixU32EqualsUtf8Length,PrefixU32EqualsUtf8LengthPlusNull,PrefixU32EqualsNegativeLength,RecordBoundaryVerified,EvidenceLevel
+﻿"Role","Filename","RawByteOffset","ByteBefore","ByteAfter","NullTerminated","PrefixU16","PrefixU32","PrefixU16EqualsUtf8Length","PrefixU32EqualsUtf8Length","PrefixU32EqualsUtf8LengthPlusNull","PrefixU32EqualsNegativeLength","RecordBoundaryVerified","EvidenceLevel"
+"GatheringCandidate","HarvestableResource.uasset","651060","0","0","False","0","27","False","False","True","False","False","RawBytesOnly"
+"GatheringCandidate","ActiveBrush.uasset","672324","0","0","False","0","19","False","False","True","False","False","RawBytesOnly"
+"GatheringCandidate","InactiveBrush.uasset","529144","0","0","False","0","21","False","False","True","False","False","RawBytesOnly"
+"UnrelatedControl","CM_M_BASE_Wolf_Special_Howl.uasset","672285","0","0","False","0","35","False","False","True","False","False","RawBytesOnly"
+"UnrelatedControl","ALS_N_Falling_LeanPose_R.uasset","651024","0","0","False","0","32","False","False","True","False","False","RawBytesOnly"
+"UnrelatedControl","CM_M_BASE_Lobby_UnSelected_00.uasset","529169","0","0","False","0","37","False","False","True","False","False","RawBytesOnly"

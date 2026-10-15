@@ -1,1 +1,4 @@
-﻿Filename,ReconstructedFilenameStringIndex,RawMatches,FirstRawByteOffset,StringIndexMappingVerified,Conclusion,EvidenceLevel
+﻿"Filename","ReconstructedFilenameStringIndex","RawMatches","FirstRawByteOffset","StringIndexMappingVerified","Conclusion","EvidenceLevel"
+"HarvestableResource.uasset","6253","1","651060","False","Raw string presence does not identify its string-table index","RawBytesOnly"
+"ActiveBrush.uasset","6805","1","672324","False","Raw string presence does not identify its string-table index","RawBytesOnly"
+"InactiveBrush.uasset","3047","1","529144","False","Raw string presence does not identify its string-table index","RawBytesOnly"

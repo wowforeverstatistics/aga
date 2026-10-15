@@ -1,0 +1,20 @@
+﻿{
+    "Tool":  "AGA v24.21",
+    "Baseline":  "v24.1",
+    "HotfixedAnalyzer":  "v24.2",
+    "Fix":  "Stream scalar integer offsets from FindAll242 instead of returning nested Int32 arrays",
+    "KnownOffsetsPreflight":  "Three v24.1 confirmed raw byte offsets checked against source UTOC",
+    "AnchorRows":  3,
+    "PatternRows":  6,
+    "IndexHypothesisRows":  3,
+    "ControlRows":  4,
+    "Errors":  0,
+    "ChecksPassed":  5,
+    "ChecksTotal":  5,
+    "IndependentFilenameStringIndexVerified":  false,
+    "DirectoryAssociationVerified":  false,
+    "FileToTocOwnershipVerified":  false,
+    "ObjectReferencesVerified":  false,
+    "GameplayFunctionVerified":  false,
+    "GatheringCoordinatesVerified":  false
+}
