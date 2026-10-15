@@ -1,0 +1,26 @@
+﻿{
+    "Tool":  "AGA v23.9",
+    "Baseline":  "v23.8",
+    "Mode":  "Read-only reconstructed filename string-index collision and provenance audit",
+    "CatalogPaths":  49935,
+    "Containers":  3,
+    "RepeatedFilenameStringIndexGroups":  7867,
+    "DifferentFilenameConflictGroups":  0,
+    "FileRecordsInRepeatedGroups":  16004,
+    "BlueprintAnchors":  3,
+    "ControlsPassed":  2,
+    "ControlsTotal":  3,
+    "Errors":  0,
+    "IndependentStringMappingVerified":  false,
+    "FileToTocOwnershipVerified":  false,
+    "ObjectReferencesVerified":  false,
+    "GameplayFunctionVerified":  false,
+    "GatheringCoordinatesVerified":  false,
+    "Notes":  [
+                  "String-index collisions are grouped within each reconstructed container, not across containers",
+                  "Same filename at a repeated index and different filename at a repeated index are distinguished",
+                  "A conflicting reconstructed index is not proof that the raw UTOC data is invalid",
+                  "No new raw binary UTOC structure decoded; this version audits existing CSV provenance",
+                  "No UCAS reads, asset extraction, game modifications, or coordinates"
+              ]
+}

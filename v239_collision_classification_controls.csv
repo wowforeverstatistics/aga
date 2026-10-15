@@ -1,0 +1,4 @@
+﻿"Control","Found","Passed","EvidenceLevel"
+"SameNameRepeatClassification","True","True","L1_ReconstructedCatalog"
+"DifferentNameConflictClassification","False","False","L1_ReconstructedCatalog"
+"ThreeBlueprintAnchorsExactMatch","True","True","L1_ReconstructedCatalog"
