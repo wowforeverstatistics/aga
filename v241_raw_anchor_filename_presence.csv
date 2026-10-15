@@ -1,0 +1,4 @@
+﻿"CandidateFilename","Container","RawUtf8FilenameObserved","FirstRawByteOffset","SearchBytes","FullFileInspected","FilenameIndexMappingVerified","DirectoryMappingVerified","FileToTocOwnershipVerified","EvidenceLevel"
+"HarvestableResource.uasset","pakchunk300-WindowsClient.utoc","True","651060","850734","True","False","False","False","RawBytePresenceOnly"
+"ActiveBrush.uasset","pakchunk300-WindowsClient.utoc","True","672324","850734","True","False","False","False","RawBytePresenceOnly"
+"InactiveBrush.uasset","pakchunk300-WindowsClient.utoc","True","529144","850734","True","False","False","False","RawBytePresenceOnly"

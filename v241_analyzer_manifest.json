@@ -1,0 +1,24 @@
+﻿{
+    "Tool":  "AGA v24.1",
+    "Baseline":  "v24.0",
+    "Mode":  "Independent bounded raw UTOC header and UTF8 byte-presence probe",
+    "RequestedContainers":  3,
+    "OpenedContainers":  3,
+    "AnchorFilenamesSearched":  3,
+    "AnchorRawByteMatches":  3,
+    "MaxProbeMiB":  64,
+    "MaxProbeBytes":  67108864,
+    "Errors":  0,
+    "IndependentFilenameStringIndexMappingVerified":  false,
+    "DirectoryToFilenameAssociationVerified":  false,
+    "FileToTocOwnershipVerified":  false,
+    "ObjectReferencesVerified":  false,
+    "GameplayFunctionVerified":  false,
+    "GatheringCoordinatesVerified":  false,
+    "Notes":  [
+                  "This is the first independently read raw UTOC probe in this branch, not an independent filename-string-index decoder",
+                  "An absent filename byte pattern is inconclusive if strings are encoded, compressed, encrypted or outside the bounded read",
+                  "A present UTF8 filename byte pattern is not proof of a string index or asset ownership",
+                  "No UCAS reads, asset extraction, game modification, or world coordinates"
+              ]
+}

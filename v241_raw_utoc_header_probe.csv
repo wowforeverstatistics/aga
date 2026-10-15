@@ -1,0 +1,4 @@
+﻿"Container","Found","LengthBytes","BytesRead","Truncated","First16BytesHex","HasExpectedIoStoreMagic","HeaderVersionByte","IndependentFilenameIndexVerified","EvidenceLevel"
+"pakchunk200_s41-WindowsClient.utoc","True","1236773","1236773","False","2D-3D-3D-2D-2D-3D-3D-2D-2D-3D-3D-2D-2D-3D-3D-2D","True","45","False","BinaryHeaderOnly"
+"pakchunk300-WindowsClient.utoc","True","850734","850734","False","2D-3D-3D-2D-2D-3D-3D-2D-2D-3D-3D-2D-2D-3D-3D-2D","True","45","False","BinaryHeaderOnly"
+"pakchunk400_s2-WindowsClient.utoc","True","4242621","4242621","False","2D-3D-3D-2D-2D-3D-3D-2D-2D-3D-3D-2D-2D-3D-3D-2D","True","45","False","BinaryHeaderOnly"
