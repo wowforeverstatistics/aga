@@ -1,0 +1,26 @@
+﻿{
+    "Tool":  "AGA v24.0",
+    "Baseline":  "v23.9",
+    "Mode":  "Read-only reconstructed string-index reuse, directory distribution, and synthetic falsification",
+    "CatalogPaths":  49935,
+    "RepeatedStringIndexGroups":  7867,
+    "DifferentFilenameConflictGroups":  0,
+    "ContainerSummaries":  3,
+    "DirectoryAuditRows":  7867,
+    "CompactSampleRows":  29,
+    "SyntheticControlsPassed":  4,
+    "SyntheticControlsTotal":  4,
+    "BlueprintAnchors":  3,
+    "Errors":  0,
+    "IndependentBinaryStringMappingVerified":  false,
+    "FileToTocOwnershipVerified":  false,
+    "ObjectReferencesVerified":  false,
+    "GameplayFunctionVerified":  false,
+    "GatheringCoordinatesVerified":  false,
+    "Notes":  [
+                  "Synthetic controls do not depend on finding a real conflicting string-index group",
+                  "Same filename index reused in multiple directories is a catalog observation, not a decoded reference",
+                  "This version does not decode additional raw binary UTOC structures; independently verified mappings remain false",
+                  "No UCAS reads, asset extraction, game modifications, or coordinates"
+              ]
+}

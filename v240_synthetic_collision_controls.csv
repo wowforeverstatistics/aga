@@ -1,0 +1,5 @@
+﻿"Control","Expected","Actual","Passed","Synthetic","EvidenceLevel"
+"SyntheticSameNameReuse","SameFilenameRepeated","SameFilenameRepeated","True","True","SyntheticTestOnly"
+"SyntheticDifferentNameConflict","DifferentFilenameConflict","DifferentFilenameConflict","True","True","SyntheticTestOnly"
+"SyntheticUniqueIndices","NoRepeatedGroup","NoRepeatedGroup","True","True","SyntheticTestOnly"
+"SyntheticWhitespaceCaseNormalization","SameFilenameRepeated","SameFilenameRepeated","True","True","SyntheticTestOnly"
