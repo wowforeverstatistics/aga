@@ -1,0 +1,7 @@
+﻿"Filename","ExpectedRole","ObservedRole","Found","Passed","EvidenceLevel"
+"HarvestableResource.uasset","BlueprintOrDefinitionName","BlueprintOrDefinitionName","True","True","L1_TextOnly"
+"ActiveBrush.uasset","BlueprintOrDefinitionName","BlueprintOrDefinitionName","True","True","L1_TextOnly"
+"InactiveBrush.uasset","BlueprintOrDefinitionName","BlueprintOrDefinitionName","True","True","L1_TextOnly"
+"ScotsPine_Harvest_Idle.uasset","AnimationName","AnimationName","True","True","L1_TextOnly"
+"CM_M_1H_SCK_HarvestLoop_End.uasset","AnimationName","AnimationName","True","True","L1_TextOnly"
+"T_Gatherables_Tomato_D.ubulk","CompanionPayloadName","CompanionPayloadName","True","True","L1_TextOnly"

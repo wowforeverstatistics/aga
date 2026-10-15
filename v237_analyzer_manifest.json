@@ -1,0 +1,25 @@
+﻿{
+    "Tool":  "AGA v23.7",
+    "Baseline":  "v23.6",
+    "Mode":  "Read-only gameplay-definition filename evidence and coverage falsification",
+    "CatalogPaths":  49935,
+    "GatherableDirectoryPaths":  206,
+    "DefinitionLikeCandidates":  3,
+    "RankedDefinitionShortlist":  3,
+    "PreviousBlueprintAnchors":  3,
+    "ExactAnchorMatches":  3,
+    "ResourceFamilyGroups":  37,
+    "ClassificationControls":  6,
+    "ControlsPassed":  6,
+    "Errors":  0,
+    "IndependentPathVerification":  false,
+    "FileToTocOwnershipVerified":  false,
+    "ObjectReferencesVerified":  false,
+    "GameplayFunctionVerified":  false,
+    "GatheringCoordinatesVerified":  false,
+    "Notes":  [
+                  "Filename roles and scores are hypotheses, not proof of gameplay function",
+                  "Three v23.6 Blueprint leads are checked against the full reconstructed catalog",
+                  "No UCAS reads, asset extraction, game modifications, or coordinates"
+              ]
+}
