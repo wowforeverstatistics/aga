@@ -1,0 +1,25 @@
+﻿{
+    "Tool":  "AGA v23.8",
+    "Baseline":  "v23.7",
+    "Mode":  "Read-only reconstructed metadata structural-field and proximity falsification",
+    "CatalogPaths":  49935,
+    "AnchorsRequested":  3,
+    "AnchorsResolved":  3,
+    "ProximityObservationRows":  25,
+    "NegativeControlRows":  6,
+    "RepeatedProvenanceKeys":  0,
+    "CatalogAmbiguityRows":  0,
+    "ContainerDistributionRows":  3,
+    "Errors":  0,
+    "IndependentPathVerification":  false,
+    "FileToTocOwnershipVerified":  false,
+    "ObjectReferencesVerified":  false,
+    "GameplayFunctionVerified":  false,
+    "GatheringCoordinatesVerified":  false,
+    "Notes":  [
+                  "File and string indices are interpreted only within their reconstructed container catalog",
+                  "Same directory or adjacent indices do not demonstrate object references, asset dependency or gameplay association",
+                  "No new raw UTOC fields decoded by v23.8; this audit uses existing v23.0/v23.7 CSV reports",
+                  "No UCAS reads, asset extraction, game modification or coordinates"
+              ]
+}
