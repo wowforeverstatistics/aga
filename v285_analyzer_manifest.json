@@ -1,0 +1,21 @@
+﻿{
+    "Tool":  "AGA v28.5",
+    "Baseline":  "v28.4.1 preserved; not executed",
+    "Mode":  "Published-source header mapping, perfect-hash table boundaries, bounded packed-block checks",
+    "Sources":  [
+                    "https://github.com/gitMenv/UEcastoc/blob/master/utoc.go",
+                    "https://github.com/trumank/retoc/blob/master/retoc/src/lib.rs"
+                ],
+    "Containers":  91,
+    "Sections":  819,
+    "BlockCheckWindows":  273,
+    "Errors":  0,
+    "RuntimeSeconds":  0.47,
+    "Notes":  [
+                  "Header offset 84 perfect hash seed count, 88 partition size U64, 96 overflow count",
+                  "Array order chunk IDs, offset/lengths, seeds, overflow, compressed blocks, method names, signatures, directory index, metadata",
+                  "Signed signatures unresolved; no directory parsing",
+                  "Packed block record fields interpreted big-endian per retoc accessors",
+                  "Only bounded .utoc metadata reads, no .ucas access or modifications"
+              ]
+}

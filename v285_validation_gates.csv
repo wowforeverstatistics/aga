@@ -1,0 +1,8 @@
+﻿"Gate","Verified","Reason"
+"HeaderFieldsMappedToPublishedParsers","True","Offsets 80/84/88/96 and array order taken from published UEcastoc and retoc parsers; applicability to game version requires testing"
+"SourceOrderedSectionsFitFile","True","Count-derived compressed block sections fit .utoc file bounds"
+"GameSpecificBlockRecordSemanticsVerified","False","Bounded sample plausibility is not independent ownership verification"
+"SignedSectionResolved","True","Signed containers need dynamic signature-size parsing"
+"DirectoryIndexParsed","False","Only section boundary calculated, no index decoding"
+"FilenameIndexMappingVerified","False","No filename mapping"
+"GatheringCoordinatesVerified","False","No coordinates extracted"
