@@ -1,0 +1,21 @@
+﻿{
+    "Tool":  "AGA v30.7",
+    "Mode":  "Bounded read-only IoStore chunk ID and packed logical offset/length decoding",
+    "ContainersFound":  91,
+    "ContainersParsed":  91,
+    "ChunkEntriesDecoded":  208714,
+    "CandidateChunkRecords":  28953,
+    "OptionalGatheringPairs":  107,
+    "PackageStoreStructuresVerified":  0,
+    "VerifiedPackageIds":  0,
+    "VerifiedDependencies":  0,
+    "Errors":  0,
+    "RuntimeSeconds":  14.273,
+    "Notes":  [
+                  "Chunk offset/length uses 5-byte big-endian fields per entry; these are logical uncompressed positions, not .utoc byte positions",
+                  "Candidate type bytes are heuristics, not verified package-store semantics",
+                  "No compression block, directory index or package-store payload decoding",
+                  "No .ucas/.uasset reads or game modifications",
+                  "Unverified conclusions explicitly preserved"
+              ]
+}
