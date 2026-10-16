@@ -1,0 +1,16 @@
+﻿{
+    "Tool":  "AGA v29.9",
+    "Baseline":  "v29.8 error-free reports reused by default; -RefreshBaseline forces rebuild",
+    "Mode":  "Read-only provisional filename catalog export and structural asset-kind separation",
+    "ProvisionalCatalogFamilies":  143,
+    "ReviewRequiredFamilies":  470,
+    "TotalFamilies":  613,
+    "DefinitionAnchorRows":  7,
+    "Errors":  0,
+    "RuntimeSeconds":  240.737,
+    "Notes":  [
+                  "Structural role is inferred from filename-kind labels, not gameplay",
+                  "Baseline may be stale unless -RefreshBaseline used",
+                  "No .ucas payload reads, no game modifications or world coordinates"
+              ]
+}

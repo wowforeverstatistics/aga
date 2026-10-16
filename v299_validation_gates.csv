@@ -1,0 +1,7 @@
+﻿"Gate","Verified","Evidence"
+"V298BaselineAccepted","True","v298 manifest, error CSV and family count validated"
+"ProvisionalFilenameIndexExport","True","Family catalog with structural-role annotations"
+"AssetTypeSeparation","True","Based on prior filename-kind labels only"
+"IndependentHarvestability","False","Not proven by directory names"
+"SerializedReferences","False","No .ucas payload access"
+"WorldCoordinates","False","No location decoding"
