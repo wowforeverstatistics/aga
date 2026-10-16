@@ -1,0 +1,19 @@
+﻿{
+    "Tool":  "AGA v28.2",
+    "Baseline":  "v28.1 preserved; not executed",
+    "Mode":  "Bounded compressed-block record packing and section-start falsification",
+    "InputFolder":  "F:\\Steam\\steamapps\\common\\Ashes of Creation\\Game\\AOC\\Content\\Paks",
+    "Containers":  91,
+    "HypothesisRows":  15549,
+    "Errors":  0,
+    "RuntimeSeconds":  28.982,
+    "RecordsPerPosition":  24,
+    "MaxShiftBytes":  96,
+    "Notes":  [
+                  "Samples at beginning, midpoint, and end of candidate compressed-block array",
+                  "Tests 5+3+3+1 little-endian and big-endian and a negative-control 4+3+3+2 layout",
+                  "Shift tests are exploratory controls and do not establish a true section start",
+                  "Separates zero sizes, oversized uncompressed blocks, method range, and decreasing offsets",
+                  "Only bounded .utoc metadata reads; no .ucas reads or game modifications"
+              ]
+}

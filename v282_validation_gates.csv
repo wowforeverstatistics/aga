@@ -1,0 +1,8 @@
+﻿"Gate","Verified","Reason"
+"DocumentedHeaderFieldOffsetsMatched","True","Header interpretation matches required version and widths for tested files"
+"CompressedBlockRecordLayoutVerified","False","Shift/layout competition is exploratory; source-specific record packing and section position not independently established"
+"CompressedBlockSectionStartVerified","False","Version-dependent preceding sections may change the start"
+"DirectoryIndexLocationVerified","False","Directory index not parsed"
+"FilenameIndexMappingVerified","False","No mapping validated"
+"FileToTocOwnershipVerified","False","No ownership validated"
+"GatheringCoordinatesVerified","False","No coordinate extraction"
