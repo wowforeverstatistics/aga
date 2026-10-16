@@ -1,0 +1,25 @@
+﻿{
+    "Tool":  "AGA v28.1",
+    "Baseline":  "v28.0 preserved; not executed",
+    "Mode":  "Compressed block entry decoding and metadata-only consistency checks",
+    "InputFolder":  "F:\\Steam\\steamapps\\common\\Ashes of Creation\\Game\\AOC\\Content\\Paks",
+    "ContainersDecoded":  91,
+    "SampleRows":  12496,
+    "ViolationRows":  20000,
+    "PrimaryRegionRows":  1,
+    "Errors":  0,
+    "RuntimeSeconds":  646.672,
+    "RecordLayoutPlausible":  false,
+    "IndependentUcasVerification":  false,
+    "PerfectHashTablesParsed":  false,
+    "DirectoryIndexLocationVerified":  false,
+    "GatheringCoordinatesVerified":  false,
+    "Notes":  [
+                  "12-byte compressed entry decoded as LE offset[5], compressed size[3], uncompressed size[3], compression method index[1]",
+                  "Offsets are within .ucas logical data and are NOT compared to .utoc file length",
+                  "Method index 0 denotes uncompressed; positive method indexes must be within declared method count",
+                  "Decreasing offsets are reported as consistency anomalies, not necessarily proof of corruption across partitions",
+                  "Sample output includes all region-intersecting pakchunk300 entries, capped at 100000 rows",
+                  "No .ucas reads or modifications"
+              ]
+}
