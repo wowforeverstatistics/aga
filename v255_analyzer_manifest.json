@@ -1,0 +1,33 @@
+﻿{
+    "Tool":  "AGA v25.5",
+    "Baseline":  "v25.4 preserved, not executed",
+    "Mode":  "Record boundary, terminal semantics, and conditional candidate-ordinal name tests",
+    "InputContainer":  "pakchunk300-WindowsClient.utoc",
+    "InputBytes":  850734,
+    "RegionStart":  200000,
+    "RegionEndExclusive":  418106,
+    "CandidateFilenameCount":  6824,
+    "MinimumRunRecords":  3,
+    "CandidateRuns":  173,
+    "BoundaryRows":  173,
+    "TerminalHoldoutRows":  36,
+    "CandidateNameSampleRows":  173,
+    "CandidateStringChainParsed":  true,
+    "RuntimeSeconds":  2.135,
+    "Errors":  0,
+    "IndependentRecordBoundariesVerified":  false,
+    "IndependentTerminalSemanticsVerified":  false,
+    "IndependentFilenameIndexMappingVerified":  false,
+    "DirectoryAssociationVerified":  false,
+    "FileToTocOwnershipVerified":  false,
+    "GlobalFilenameTableBoundariesVerified":  false,
+    "ObjectReferencesVerified":  false,
+    "GameplayFunctionVerified":  false,
+    "GatheringCoordinatesVerified":  false,
+    "Notes":  [
+                  "Triplet layout is a falsifiable hypothesis, not decoded format",
+                  "Ordinal-to-name examples are conditional on an unverified mapping",
+                  "Holdout is every fifth 4096-byte window",
+                  "Only .utoc read; no .ucas access, extraction or modification"
+              ]
+}
