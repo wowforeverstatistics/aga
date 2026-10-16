@@ -1,0 +1,15 @@
+﻿{
+    "Tool":  "AGA v29.8",
+    "Baseline":  "v29.7 reports reused when available and error-free, otherwise v29.7 executed",
+    "Mode":  "Read-only definition-anchor filename inventory and provisional catalog readiness",
+    "DefinitionAnchorRows":  7,
+    "CatalogFamilies":  613,
+    "ReviewFamilies":  470,
+    "Errors":  0,
+    "RuntimeSeconds":  233.807,
+    "Notes":  [
+                  "Existing baseline may be stale if game files changed",
+                  "Readiness does not verify game semantics",
+                  "No .ucas payload reads, game edits or coordinates"
+              ]
+}

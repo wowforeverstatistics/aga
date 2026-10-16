@@ -1,0 +1,7 @@
+﻿"Gate","Verified","Evidence"
+"V297BaselineErrorFree","True","Manifest and error CSV checked"
+"DefinitionAnchorFilenameInventory","True","Exact filename-stem matches in v297 catalog"
+"ProvisionalCatalogReadiness","True","Conservative filename and warning classification"
+"SerializedAssetReferences","False","No payload reads"
+"GameplayResourceIdentity","False","Not established by filenames"
+"WorldCoordinates","False","Not decoded"
