@@ -1,0 +1,8 @@
+﻿"Gate","Verified","Reason"
+"IndependentHeaderSchemaVerified","False","Offset scans and arithmetic constraints do not independently establish documented IoStore schema"
+"IndependentSectionBoundariesVerified","False","Offset scans and arithmetic constraints do not independently establish documented IoStore schema"
+"IndependentRecordLayoutVerified","False","Offset scans and arithmetic constraints do not independently establish documented IoStore schema"
+"IndependentFilenameIndexMappingVerified","False","Offset scans and arithmetic constraints do not independently establish documented IoStore schema"
+"DirectoryAssociationVerified","False","Offset scans and arithmetic constraints do not independently establish documented IoStore schema"
+"FileToTocOwnershipVerified","False","Offset scans and arithmetic constraints do not independently establish documented IoStore schema"
+"GatheringCoordinatesVerified","False","Offset scans and arithmetic constraints do not independently establish documented IoStore schema"

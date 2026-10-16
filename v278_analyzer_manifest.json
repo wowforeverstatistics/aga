@@ -1,0 +1,26 @@
+﻿{
+    "Tool":  "AGA v27.8",
+    "Baseline":  "v27.7 preserved; not executed",
+    "Mode":  "Header offset correction hypotheses and cross-container consistency",
+    "InputFolder":  "F:\\Steam\\steamapps\\common\\Ashes of Creation\\Game\\AOC\\Content\\Paks",
+    "Containers":  91,
+    "OffsetScanRows":  2548,
+    "LayoutMatrixRows":  2184,
+    "ComparisonRows":  91,
+    "Errors":  0,
+    "RuntimeSeconds":  0.883,
+    "IndependentHeaderSchemaVerified":  false,
+    "IndependentSectionBoundariesVerified":  false,
+    "IndependentRecordLayoutVerified":  false,
+    "IndependentFilenameIndexMappingVerified":  false,
+    "DirectoryAssociationVerified":  false,
+    "FileToTocOwnershipVerified":  false,
+    "GatheringCoordinatesVerified":  false,
+    "Notes":  [
+                  "Candidate field offsets 16..124 are scanned as unsigned little-endian U32 values",
+                  "Four competing layouts start header fields at 20,24,28,32; no documented field map is assumed",
+                  "Section arithmetic omits version-specific fields and optional sections",
+                  "Cross-container arithmetic consistency cannot prove a field is a header size",
+                  "Header-only .utoc reads, no .ucas access, no modifications"
+              ]
+}
