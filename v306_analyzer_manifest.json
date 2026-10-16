@@ -1,0 +1,21 @@
+﻿{
+    "Tool":  "AGA v30.6",
+    "Mode":  "Read-only IoStore package-metadata structural preflight",
+    "ContainersFound":  91,
+    "ContainersStructurallyReadable":  91,
+    "ChunkIdsExamined":  208714,
+    "CandidateMetadataContainers":  91,
+    "OptionalGatheringCandidatePairs":  107,
+    "PackageStoreStructuresValidated":  0,
+    "GatheringPackageIdsVerified":  0,
+    "SerializedDependenciesVerified":  0,
+    "Errors":  0,
+    "RuntimeSeconds":  0.969,
+    "Notes":  [
+                  "Validates IoStore magic and bounded chunk ID/offset-length table ranges",
+                  "Does not decode offset table records or payloads",
+                  "Candidate chunk type bytes are heuristic, not package-store proof",
+                  "No .ucas reads, no .uasset reads, no game modification",
+                  "Explicit unverified results retained"
+              ]
+}

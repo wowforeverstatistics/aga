@@ -1,0 +1,7 @@
+﻿"Gate","Verified","Evidence"
+"AllSelectedUtocHeadersAndTablesValidated","True","Magic, header, chunk IDs and 10-byte offset table bounds"
+"MetadataChunkCandidatesObserved","True","Raw candidate chunk-type bytes only"
+"PackageStorePayloadStructureValidated","False","Payload structures not decoded; no unsupported semantic inference"
+"GatheringPackageIdsMapped","False","No verified filename-to-package-ID mapping"
+"SerializedDependenciesEstablished","False","No package-store dependency payload parsing"
+"WorldCoordinatesEstablished","False","No placement data"
