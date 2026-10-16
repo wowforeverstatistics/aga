@@ -1,0 +1,8 @@
+﻿"Gate","Verified","Reason"
+"IndependentRecordLayoutVerified","False","Numerical candidate observations only; no independent IoStore structural verification"
+"IndependentPreTransitionPredictionSemanticsVerified","False","Numerical candidate observations only; no independent IoStore structural verification"
+"IndependentTerminalSemanticsVerified","False","Numerical candidate observations only; no independent IoStore structural verification"
+"IndependentFilenameIndexMappingVerified","False","Numerical candidate observations only; no independent IoStore structural verification"
+"DirectoryAssociationVerified","False","Numerical candidate observations only; no independent IoStore structural verification"
+"FileToTocOwnershipVerified","False","Numerical candidate observations only; no independent IoStore structural verification"
+"GatheringCoordinatesVerified","False","Numerical candidate observations only; no independent IoStore structural verification"

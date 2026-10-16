@@ -1,0 +1,7 @@
+﻿"Group","Phase","N","NextZero","NextHigh","NextOther","IndependentEvidence"
+"Training","0","32","22","10","0","False"
+"Training","1","0","0","0","0","False"
+"Training","2","0","0","0","0","False"
+"Holdout","0","11","8","3","0","False"
+"Holdout","1","0","0","0","0","False"
+"Holdout","2","0","0","0","0","False"
