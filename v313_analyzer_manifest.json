@@ -1,0 +1,22 @@
+﻿{
+    "Tool":  "AGA v31.3",
+    "Mode":  "Mount-path normalization and package identity evidence audit",
+    "InputCandidateRows":  88,
+    "NormalizedCandidateRows":  88,
+    "ProvisionalUniquePaths":  44,
+    "DistinctAssetKeysWithProvisionalPaths":  44,
+    "AmbiguousAssetKeys":  0,
+    "CrossAssetPathCollisions":  0,
+    "MountEvidenceRows":  0,
+    "VerifiedCanonicalPaths":  0,
+    "VerifiedPackageIds":  0,
+    "VerifiedDependencies":  0,
+    "Errors":  0,
+    "RuntimeSeconds":  31.788,
+    "Notes":  [
+                  "Original path and source retained per row",
+                  "../../../AOC/Content/ to /Game/ is a provisional hypothesis",
+                  "No undocumented package ID algorithm or guessed hash",
+                  "No .ucas/.uasset reads"
+              ]
+}

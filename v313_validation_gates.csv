@@ -1,0 +1,8 @@
+﻿"Gate","Passed","Evidence"
+"107FocusedPairsRecovered","True","See v3101 manifest for actual pair count"
+"44AssetKeysHaveProvisionalPaths","True","44 unique asset keys"
+"NoProvisionalPathCollisions","True","0 duplicate normalized paths across different keys"
+"NoAmbiguousAssetKeys","True","0 keys with multiple distinct provisional paths"
+"MountPointIndependentlyVerified","False","Mount mapping is an explicit hypothesis, not proven by source filenames"
+"PackageIdAlgorithmValidatedWithIndependentVectors","False","No authenticated source algorithm and independent test vectors; no hash implemented"
+"PackageIdsVerified","False","No canonical path or algorithm verification"
