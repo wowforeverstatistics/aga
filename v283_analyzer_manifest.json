@@ -1,0 +1,24 @@
+﻿{
+    "Tool":  "AGA v28.3",
+    "Baseline":  "v28.2 preserved; not executed",
+    "Mode":  "Source-field audit and explicitly hypothetical section ordering with bounded record checks",
+    "InputFolder":  "F:\\Steam\\steamapps\\common\\Ashes of Creation\\Game\\AOC\\Content\\Paks",
+    "Containers":  91,
+    "HeaderFieldRows":  2912,
+    "OrderingRows":  273,
+    "CandidateSampleRows":  819,
+    "NegativeControlRows":  273,
+    "Errors":  0,
+    "RuntimeSeconds":  2.168,
+    "SourceDefinedOrderingIndependentlyVerified":  false,
+    "PerfectHashTablesParsed":  false,
+    "DirectoryIndexLocationVerified":  false,
+    "GatheringCoordinatesVerified":  false,
+    "Notes":  [
+                  "Only source-labelled header fields inherited from v27.9 are mapped; unrecognized header bytes retained raw",
+                  "No game-specific source layout or optional table counts supplied; candidate ordering is not source-verified",
+                  "Tests optional-before-block and directory-before-block placements as falsifiable hypotheses",
+                  "+1 byte alignment controls detect accidental clean samples",
+                  "Bounded .utoc reads only; no .ucas access or game modification"
+              ]
+}
