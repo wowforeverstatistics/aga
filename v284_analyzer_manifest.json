@@ -1,0 +1,22 @@
+﻿{
+    "Tool":  "AGA v28.4",
+    "Baseline":  "v28.3 preserved; not executed",
+    "Mode":  "Unknown-header count-width falsification and cross-container negative controls",
+    "InputFolder":  "F:\\Steam\\steamapps\\common\\Ashes of Creation\\Game\\AOC\\Content\\Paks",
+    "Containers":  91,
+    "UnknownHeaderFieldRows":  2093,
+    "CandidateRows":  9464,
+    "CrossContainerRows":  104,
+    "Errors":  0,
+    "RuntimeSeconds":  1.863,
+    "SourceDefinedOptionalCountsVerified":  false,
+    "SourceDefinedOptionalWidthsVerified":  false,
+    "OptionalBoundariesVerified":  false,
+    "Notes":  [
+                  "Raw offsets 52..140 audited as UNKNOWN; no undocumented field names invented",
+                  "Widths 4,8,12,16 are exploratory negative-control candidates, not source-defined structure widths",
+                  "Header values at offsets 24,28,48 included as known-nonoptional negative controls",
+                  "Residual arithmetic alone cannot distinguish perfect-hash tables, padding, or other metadata",
+                  "Only first 144 bytes of each .utoc read; no .ucas access or modifications"
+              ]
+}
