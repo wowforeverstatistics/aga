@@ -1,0 +1,18 @@
+﻿{
+    "Tool":  "AGA v28.6",
+    "Baseline":  "v28.5 preserved; not executed",
+    "Mode":  "Raw packed compressed-block and 24-byte metadata diagnostics",
+    "Containers":  91,
+    "RawBlockRows":  8668,
+    "BlockComparisonRows":  542,
+    "MetadataSampleRows":  2143,
+    "Errors":  0,
+    "RuntimeSeconds":  2.601,
+    "Notes":  [
+                  "Source-derived candidate sections inherited from v28.5",
+                  "Raw bytes preserved for independent review; BE and LE competing decodes",
+                  "Decreasing offsets are diagnostics, not automatically treated as violations",
+                  "Metadata sampled at beginning, middle and end; no hash/flags field semantics asserted",
+                  "Only bounded .utoc metadata reads; no .ucas reads or modifications"
+              ]
+}

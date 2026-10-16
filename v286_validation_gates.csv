@@ -1,0 +1,8 @@
+﻿"Gate","Verified","Reason"
+"Metadata24ByteEOFArithmetic","True","24 bytes per entry reaches EOF for all tested containers; arithmetic consistency only"
+"CompressedBlockPackingIndependentlyVerified","False","BE/LE comparison and raw records are diagnostic; no independent payload verification"
+"CompressedBlockOffsetMonotonicityRequired","False","Decreasing offsets reported as diagnostics only, not format violations"
+"EntryMetadataFieldSemanticsVerified","False","Raw 20-byte prefix and 4-byte tail recorded without claiming hash/flags semantics"
+"DirectoryIndexParsed","False","Only directory section boundary inferred"
+"FileOwnershipVerified","False","No verified chunk-to-path mapping"
+"GatheringCoordinatesVerified","False","No coordinate extraction"
