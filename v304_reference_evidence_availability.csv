@@ -1,0 +1,3 @@
+﻿"EvidenceSource","ContainsFilenames","ContainsSerializedImports","ContainsSerializedExports","ContainsWorldPlacement","CanVerifyDependencies","Limitation"
+"v302_asset_prefix_inventory.csv","True","False","False","False","False","Sampled paths; no package import/export dependency records"
+"v303_targeted_reference_review_queue.csv","True","False","False","False","False","Derived filename matches only; not independent relationship evidence"

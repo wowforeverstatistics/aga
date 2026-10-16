@@ -1,0 +1,7 @@
+﻿"Gate","Verified","Evidence"
+"V303BaselineAccepted","True","Manifest, errors and candidate row counts checked"
+"FiveFocusedResourcesAudited","True","Apple, Corn, Basalt, Banyan, BananaPlant"
+"CandidatePathEvidenceLinked","True","Exact sampled filename-stem lookup only"
+"SerializedReferencesVerified","False","Inputs have no serialized import/export reference data"
+"GameplayHarvestabilityVerified","False","No independent gameplay observations"
+"WorldCoordinatesVerified","False","No placement information"

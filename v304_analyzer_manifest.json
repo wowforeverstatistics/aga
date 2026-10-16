@@ -1,0 +1,19 @@
+﻿{
+    "Tool":  "AGA v30.4",
+    "Baseline":  "Reused v30.3 reports",
+    "Mode":  "Focused five-resource filename evidence and reference-data readiness audit",
+    "InputV303CandidatePairs":  407,
+    "FocusedResources":  5,
+    "FocusedCandidatePairs":  107,
+    "StrictFocusedPairs":  74,
+    "VerifiedSerializedDependencies":  0,
+    "VerifiedGameplayLinks":  0,
+    "Errors":  0,
+    "RuntimeSeconds":  0.285,
+    "Notes":  [
+                  "Uses prior reports only; no asset payload parsing",
+                  "Reference-data availability is explicitly assessed",
+                  "No .ucas reads or game modifications",
+                  "No world coordinates or gameplay claims"
+              ]
+}

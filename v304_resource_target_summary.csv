@@ -1,0 +1,6 @@
+﻿"Resource","DirectorySuffix","RequestedReviewType","CandidatePairs","StrictPairs","BroadOnlyPairs","SerializedReferencesVerified","GameplayLinksVerified"
+"Apple","plants/applebush","FT-SM","6","2","4","0","0"
+"Corn","plants/corn","FT-SM","12","5","7","0","0"
+"Basalt","stone/basalt","FT-SM","3","2","1","0","0"
+"Banyan","trees/banyan","MeshPhysicsSkeleton","36","36","0","0","0"
+"BananaPlant","plants/bananaplant/mesh","MeshPhysicsSkeleton","50","29","21","0","0"
