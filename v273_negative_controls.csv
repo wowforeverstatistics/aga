@@ -1,0 +1,7 @@
+﻿"Group","Phase","Control","Links","SourceNextZero","HasOrdinary","FirstHighAttributed","IndependentEvidence"
+"Training","0","ConsecutiveAlternativeEvents","28","19","20","9","False"
+"Training","1","ConsecutiveAlternativeEvents","0","0","0","0","False"
+"Training","2","ConsecutiveAlternativeEvents","0","0","0","0","False"
+"Holdout","0","ConsecutiveAlternativeEvents","10","7","7","3","False"
+"Holdout","1","ConsecutiveAlternativeEvents","0","0","0","0","False"
+"Holdout","2","ConsecutiveAlternativeEvents","0","0","0","0","False"

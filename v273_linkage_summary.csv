@@ -1,0 +1,7 @@
+﻿"Group","Phase","AlternativeEvents","NonOverlappingConsecutiveEventLinks","DirectAdjacent","SeparatedByOrdinary","HighIntervening","FirstHighImmediatelyAttributed","SourceNextZero","SourceNextZeroPreservesTerminal","Offset315142Links"
+"Training","0","33","28","0","20","9","9","19","0","1"
+"Training","1","0","0","0","0","0","0","0","0","0"
+"Training","2","0","0","0","0","0","0","0","0","0"
+"Holdout","0","11","10","0","7","3","3","7","0","0"
+"Holdout","1","0","0","0","0","0","0","0","0","0"
+"Holdout","2","0","0","0","0","0","0","0","0","0"

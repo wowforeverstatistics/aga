@@ -1,0 +1,8 @@
+﻿"Gate","Verified","Reason"
+"IndependentRecordLayoutVerified","False","Numerical triplets only; no independent semantic evidence"
+"IndependentCrossChainLinkageSemanticsVerified","False","Numerical triplets only; no independent semantic evidence"
+"IndependentTerminalSemanticsVerified","False","Numerical triplets only; no independent semantic evidence"
+"IndependentFilenameIndexMappingVerified","False","Numerical triplets only; no independent semantic evidence"
+"DirectoryAssociationVerified","False","Numerical triplets only; no independent semantic evidence"
+"FileToTocOwnershipVerified","False","Numerical triplets only; no independent semantic evidence"
+"GatheringCoordinatesVerified","False","Numerical triplets only; no independent semantic evidence"

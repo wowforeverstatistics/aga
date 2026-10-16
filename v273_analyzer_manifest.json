@@ -1,0 +1,32 @@
+﻿{
+    "Tool":  "AGA v27.3",
+    "Baseline":  "v27.2 preserved; not executed",
+    "Mode":  "Cross-chain state transition and alternative-terminal linkage falsification",
+    "InputContainer":  "pakchunk300-WindowsClient.utoc",
+    "InputBytes":  850734,
+    "RegionStart":  200000,
+    "RegionEndExclusive":  418106,
+    "MaxLinkTriplets":  128,
+    "AlternativeTerminalEventRows":  44,
+    "ConsecutiveEventLinkRows":  38,
+    "InterveningTripletRows":  1198,
+    "LinkageSummaryRows":  6,
+    "NegativeControlRows":  6,
+    "Errors":  0,
+    "RuntimeSeconds":  4.668,
+    "IndependentRecordLayoutVerified":  false,
+    "IndependentCrossChainLinkageSemanticsVerified":  false,
+    "IndependentTerminalSemanticsVerified":  false,
+    "IndependentFilenameIndexMappingVerified":  false,
+    "DirectoryAssociationVerified":  false,
+    "FileToTocOwnershipVerified":  false,
+    "GatheringCoordinatesVerified":  false,
+    "Notes":  [
+                  "Links only consecutive alternative-terminal events in same 4096-byte window to avoid overlapping chain segments",
+                  "Event selection is based on candidate index and alternative terminal, not reset outcomes",
+                  "Intervening first-field high state attribution tests immediately preceding alternative terminal",
+                  "Three fixed phases and every fifth 4096-byte window holdout; shifted phases can have zero eligible events",
+                  "Alternative-event links are descriptive, not independent controls",
+                  "Read-only .utoc; no .ucas reads or game modifications"
+              ]
+}
