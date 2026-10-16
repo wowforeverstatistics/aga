@@ -1,0 +1,6 @@
+﻿"Gate","Verified","Evidence"
+"V299CatalogAccepted","True","v29.9 manifest, errors and catalog count checked"
+"OfflineHTMLCatalogGenerated","True","Embedded JSON, no fetch requests"
+"ActualHarvestability","False","Filename-derived catalog only"
+"SerializedReferences","False","No payload decoding"
+"WorldCoordinates","False","No world coordinates"

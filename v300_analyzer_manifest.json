@@ -1,0 +1,16 @@
+﻿{
+    "Tool":  "AGA v30.0",
+    "Baseline":  "Rebuilt v29.9 reports",
+    "Mode":  "Offline searchable filename-derived resource catalog",
+    "CatalogFamilies":  613,
+    "ProvisionalFamilies":  143,
+    "ReviewFamilies":  470,
+    "Errors":  0,
+    "RuntimeSeconds":  256.906,
+    "OutputHtml":  "AGA-Resource-Catalog-v30.0.html",
+    "Notes":  [
+                  "HTML works offline with embedded catalog data",
+                  "Filename-derived only; not verified harvestable resource data",
+                  "No .ucas reads, no game modifications or coordinates"
+              ]
+}
