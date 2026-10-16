@@ -1,0 +1,5 @@
+﻿"Container","Section","Start","EndExclusive","RelationToInvestigatedRegion","Confidence","HeaderSanityPass","IndependentlyVerifiedBoundary"
+"pakchunk300-WindowsClient.utoc","Header","0","144","BeforeRegion","DocumentedFixed","True","False"
+"pakchunk300-WindowsClient.utoc","ChunkIDs","144","89016","BeforeRegion","DocumentedWidth12","True","False"
+"pakchunk300-WindowsClient.utoc","OffsetLengths","89016","163076","BeforeRegion","DocumentedWidth10","True","False"
+"pakchunk300-WindowsClient.utoc","LaterSections","163076","850734","ContainsRegion","OptionalPerfectHashTablesUnresolved","True","False"

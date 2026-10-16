@@ -1,0 +1,8 @@
+﻿"Gate","Verified","Reason"
+"DocumentedHeaderFieldOffsetsMatched","True","External open-source FIoStoreTocHeader definitions and cross-container sanity checks; conditional on compatible version"
+"IndependentSectionBoundariesVerified","False","Version-dependent perfect-hash and optional sections not yet parsed"
+"IndependentRecordLayoutVerified","False","Previous 12-byte numerical patterns not yet tied to a validated section"
+"IndependentFilenameIndexMappingVerified","False","No directory index ownership verification"
+"DirectoryAssociationVerified","False","No independently verified directory index parsing"
+"FileToTocOwnershipVerified","False","No independent file-to-chunk association"
+"GatheringCoordinatesVerified","False","No gathering coordinate extraction"

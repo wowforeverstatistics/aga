@@ -1,0 +1,23 @@
+﻿{
+    "Tool":  "AGA v27.9",
+    "Baseline":  "v27.8 preserved; not executed",
+    "Mode":  "Documented FIoStoreTocHeader field mapping and conservative section-boundary checks",
+    "InputFolder":  "F:\\Steam\\steamapps\\common\\Ashes of Creation\\Game\\AOC\\Content\\Paks",
+    "Containers":  91,
+    "FieldRows":  1001,
+    "CorrectionRows":  91,
+    "PrimarySectionRows":  4,
+    "Errors":  0,
+    "RuntimeSeconds":  0.343,
+    "Sources":  [
+                    "https://github.com/gitMenv/UEcastoc/blob/master/utoc.go",
+                    "https://github.com/trumank/retoc/blob/master/retoc/src/lib.rs"
+                ],
+    "Notes":  [
+                  "Documented header size is at byte offset 20, entry count at 24, compressed-block count at 28, block-entry width at 32",
+                  "Field mapping based on external implementations, not the game-specific Unreal Engine source build",
+                  "FIoChunkId width12 and FIoOffsetAndLength width10; optional perfect hash tables prevent full section boundary verification",
+                  "Header sanity pass is not proof of filenames, directory association, or gathering coordinates",
+                  "Read-only .utoc headers; no .ucas reads or game modifications"
+              ]
+}
