@@ -1,0 +1,33 @@
+﻿{
+    "Tool":  "AGA v25.6",
+    "Baseline":  "v25.5 preserved; not executed",
+    "Mode":  "Candidate index ownership and record-type discrimination falsification",
+    "InputContainer":  "pakchunk300-WindowsClient.utoc",
+    "InputBytes":  850734,
+    "RegionStart":  200000,
+    "RegionEndExclusive":  418106,
+    "CandidateFilenameCount":  6824,
+    "CandidateSequenceRuns":  142,
+    "BoundaryRows":  142,
+    "TerminalHoldoutRows":  36,
+    "OrdinalMappingControlRows":  400,
+    "CrossContainerAlignmentRows":  12,
+    "CandidateStringChainParsed":  true,
+    "RuntimeSeconds":  2.485,
+    "Errors":  0,
+    "IndependentRecordBoundariesVerified":  false,
+    "IndependentTerminalSemanticsVerified":  false,
+    "IndependentFilenameIndexMappingVerified":  false,
+    "DirectoryAssociationVerified":  false,
+    "FileToTocOwnershipVerified":  false,
+    "GlobalFilenameTableBoundariesVerified":  false,
+    "ObjectReferencesVerified":  false,
+    "GameplayFunctionVerified":  false,
+    "GatheringCoordinatesVerified":  false,
+    "Notes":  [
+                  "All candidate record and ordinal interpretations remain unverified",
+                  "Shifted and permuted ordinal labels are negative controls, not independent evidence",
+                  "Other containers use the same numeric scan range only for a falsification control",
+                  "Read-only .utoc bytes; never .ucas or game modification"
+              ]
+}
