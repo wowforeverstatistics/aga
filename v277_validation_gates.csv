@@ -1,0 +1,8 @@
+﻿"Gate","Verified","Reason"
+"IndependentHeaderSchemaVerified","False","Tentative offsets and arithmetic-only checks; no independent structural verification"
+"IndependentSectionBoundariesVerified","False","Tentative offsets and arithmetic-only checks; no independent structural verification"
+"IndependentRecordLayoutVerified","False","Tentative offsets and arithmetic-only checks; no independent structural verification"
+"IndependentFilenameIndexMappingVerified","False","Tentative offsets and arithmetic-only checks; no independent structural verification"
+"DirectoryAssociationVerified","False","Tentative offsets and arithmetic-only checks; no independent structural verification"
+"FileToTocOwnershipVerified","False","Tentative offsets and arithmetic-only checks; no independent structural verification"
+"GatheringCoordinatesVerified","False","Tentative offsets and arithmetic-only checks; no independent structural verification"

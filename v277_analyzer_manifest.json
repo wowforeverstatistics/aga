@@ -1,0 +1,29 @@
+﻿{
+    "Tool":  "AGA v27.7",
+    "Baseline":  "v27.6 preserved; not executed",
+    "Mode":  "Tentative IoStore header schema and structural offset falsification",
+    "InputFolder":  "F:\\Steam\\steamapps\\common\\Ashes of Creation\\Game\\AOC\\Content\\Paks",
+    "RegionStart":  200000,
+    "RegionEndExclusive":  418106,
+    "Containers":  91,
+    "HeaderFieldRows":  1001,
+    "LayoutHypothesisRows":  546,
+    "RegionIntersectionRows":  24,
+    "ShiftControlRows":  546,
+    "Errors":  0,
+    "RuntimeSeconds":  0.491,
+    "IndependentHeaderSchemaVerified":  false,
+    "IndependentSectionBoundariesVerified":  false,
+    "IndependentRecordLayoutVerified":  false,
+    "IndependentFilenameIndexMappingVerified":  false,
+    "DirectoryAssociationVerified":  false,
+    "FileToTocOwnershipVerified":  false,
+    "GatheringCoordinatesVerified":  false,
+    "Notes":  [
+                  "Offsets 16..56 are tentative candidates, not confirmed Unreal Engine field locations",
+                  "Section calculations omit optional and version-dependent sections and must not be treated as validated",
+                  "Arithmetic fit is necessary but insufficient evidence of correct header interpretation",
+                  "Header shifts are weak numerical controls only",
+                  "Read-only .utoc access; no .ucas reads or modifications"
+              ]
+}
