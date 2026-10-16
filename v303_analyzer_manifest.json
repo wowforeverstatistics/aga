@@ -1,0 +1,21 @@
+﻿{
+    "Tool":  "AGA v30.3",
+    "Baseline":  "Reused v30.2.1 reports",
+    "Mode":  "Conservative cross-role filename relationship evidence audit",
+    "InputExamplePathRows":  1309,
+    "InputLexicalAssociations":  25,
+    "DistinctExampleAssetStems":  880,
+    "CrossRoleCandidatePairs":  407,
+    "StrictStemPairs":  223,
+    "BroadOnlyPairs":  184,
+    "DirectSerializedDependenciesVerified":  0,
+    "GameplayLinksVerified":  0,
+    "Errors":  0,
+    "RuntimeSeconds":  0.816,
+    "Notes":  [
+                  "Uses sampled v30.2.1 inventory paths, not full inventory",
+                  "Does not read .uasset payloads or .ucas",
+                  "Filename matches do not prove package references or harvesting",
+                  "No game modification or world coordinates"
+              ]
+}

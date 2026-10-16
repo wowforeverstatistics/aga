@@ -1,0 +1,7 @@
+﻿"Gate","Verified","Evidence"
+"V302BaselineAccepted","True","Error-free manifest and CSV counts checked"
+"ExtensionDuplicatesCollapsed","True","Same-directory same-stem .uasset/.ubulk represented as one object"
+"StrictAndBroadMatchesSeparated","True","Exact normalized stem versus life-stage/size-normalized match"
+"SerializedReferencesVerified","False","No package payload parsed; associations are filename hypotheses"
+"GameplayHarvestabilityVerified","False","No gameplay observations"
+"WorldCoordinatesVerified","False","No coordinates"
