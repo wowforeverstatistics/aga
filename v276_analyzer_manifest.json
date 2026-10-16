@@ -1,0 +1,30 @@
+﻿{
+    "Tool":  "AGA v27.6",
+    "Baseline":  "v27.5 preserved; not executed",
+    "Mode":  "IoStore structural boundary and record-layout falsification",
+    "InputFolder":  "F:\\Steam\\steamapps\\common\\Ashes of Creation\\Game\\AOC\\Content\\Paks",
+    "RegionStart":  200000,
+    "RegionEndExclusive":  418106,
+    "Containers":  91,
+    "RawHeaderFieldRows":  2184,
+    "RecordWidthRows":  1080,
+    "CandidateBoundaryRows":  3559,
+    "NegativeControlRows":  216,
+    "Errors":  0,
+    "RuntimeSeconds":  139.062,
+    "IndependentRecordLayoutVerified":  false,
+    "IndependentHeaderFieldSemanticsVerified":  false,
+    "IndependentBoundaryVerification":  false,
+    "IndependentFilenameIndexMappingVerified":  false,
+    "DirectoryAssociationVerified":  false,
+    "FileToTocOwnershipVerified":  false,
+    "GatheringCoordinatesVerified":  false,
+    "Notes":  [
+                  "Header values are raw unsigned integers, not parsed IoStore version or field claims",
+                  "12-byte width competes against 16/20/24/28/32 byte interpretations",
+                  "Width comparison uses same numeric predicate at offsets 0/4/8; scores are not normalized for differing record counts",
+                  "Byte-shift controls are numerical only, not independent validation",
+                  "Read-only .utoc metadata; no .ucas access or game modifications",
+                  "Missing or inaccessible files recorded as errors; prior baselines are not run"
+              ]
+}

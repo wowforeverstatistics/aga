@@ -1,0 +1,8 @@
+﻿"Gate","Verified","Reason"
+"IndependentRecordLayoutVerified","False","Raw byte and numerical comparisons are not independent IoStore structural or semantic proof"
+"IndependentHeaderFieldSemanticsVerified","False","Raw byte and numerical comparisons are not independent IoStore structural or semantic proof"
+"IndependentBoundaryVerification","False","Raw byte and numerical comparisons are not independent IoStore structural or semantic proof"
+"IndependentFilenameIndexMappingVerified","False","Raw byte and numerical comparisons are not independent IoStore structural or semantic proof"
+"DirectoryAssociationVerified","False","Raw byte and numerical comparisons are not independent IoStore structural or semantic proof"
+"FileToTocOwnershipVerified","False","Raw byte and numerical comparisons are not independent IoStore structural or semantic proof"
+"GatheringCoordinatesVerified","False","Raw byte and numerical comparisons are not independent IoStore structural or semantic proof"
