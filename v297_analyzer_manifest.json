@@ -1,0 +1,15 @@
+﻿{
+    "Tool":  "AGA v29.7",
+    "Baseline":  "v29.6 executed unless ReuseV296Reports",
+    "Mode":  "Read-only stale-warning reconciliation and folder-scoped lexical asset family analysis",
+    "CatalogRows":  1799,
+    "LexicalFamilies":  613,
+    "ReviewQueueRows":  766,
+    "Errors":  0,
+    "RuntimeSeconds":  593.63,
+    "Notes":  [
+                  "No independent asset dependency evidence",
+                  "Original v29.6 warnings retained for comparison",
+                  "No .ucas reads, game edits or coordinates"
+              ]
+}

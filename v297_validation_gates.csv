@@ -1,0 +1,6 @@
+﻿"Gate","Verified","Evidence"
+"V296BaselineAccepted","True","v29.6 manifest and CSV checked"
+"WarningRecomputedFromCurrentFields","True","Reconciled parser warnings and retained original flags"
+"AssetDependenciesVerified","False","Filename lexical links are not serialized references"
+"ResourceGameplayIdentity","False","No payload decoding"
+"WorldCoordinates","False","No world location data decoded"
