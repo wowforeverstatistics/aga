@@ -1,0 +1,40 @@
+﻿{
+    "Tool":  "AGA v25.3",
+    "Baseline":  "v25.2 preserved; not executed",
+    "Mode":  "Candidate triplet [A, B, 256] hypothesis testing with terminal controls",
+    "InputContainer":  "pakchunk300-WindowsClient.utoc",
+    "InputBytes":  850734,
+    "RegionStart":  200000,
+    "RegionEndExclusive":  418106,
+    "WindowBytes":  4096,
+    "TotalAlignedTriplets":  54524,
+    "Terminal256Triplets":  4841,
+    "IndexInRangeAndTerminal256":  3517,
+    "FlaggedFirstAndTerminal256":  140,
+    "ExampleRows":  327,
+    "WindowRows":  54,
+    "BlueprintAnchorOccurrences":  11,
+    "TerminalControlRows":  7,
+    "FirstClassCounts":  {
+                             "Control80000001":  6,
+                             "OtherInRange":  200,
+                             "OtherOutOfRange":  866,
+                             "One":  3629,
+                             "FlagC0200001":  1,
+                             "Flag40000001":  139
+                         },
+    "RuntimeSeconds":  4.442,
+    "Errors":  0,
+    "IndependentTripletRecordLayoutVerified":  false,
+    "IndependentFilenameIndexMappingVerified":  false,
+    "DirectoryAssociationVerified":  false,
+    "FileToTocOwnershipVerified":  false,
+    "GlobalFilenameTableBoundariesVerified":  false,
+    "ObjectReferencesVerified":  false,
+    "GameplayFunctionVerified":  false,
+    "GatheringCoordinatesVerified":  false,
+    "Notes":  [
+                  "Triplet adjacency and terminal frequency are not proof of record format",
+                  "No .ucas reads, extraction or game modifications"
+              ]
+}
