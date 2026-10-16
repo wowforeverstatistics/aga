@@ -1,0 +1,31 @@
+﻿{
+    "Tool":  "AGA v25.4",
+    "Baseline":  "v25.3 preserved; not executed",
+    "Mode":  "Candidate record sequence and index progression falsification",
+    "InputContainer":  "pakchunk300-WindowsClient.utoc",
+    "InputBytes":  850734,
+    "RegionStart":  200000,
+    "RegionEndExclusive":  418106,
+    "WindowBytes":  4096,
+    "CandidateSequenceRuns":  308,
+    "WindowPhaseRows":  162,
+    "TerminalPhaseRows":  18,
+    "HoldoutPhaseRows":  6,
+    "AlignmentControlRows":  4,
+    "RuntimeSeconds":  3.486,
+    "Errors":  0,
+    "IndependentRecordSequenceVerified":  false,
+    "IndependentIndexProgressionVerified":  false,
+    "IndependentFilenameIndexMappingVerified":  false,
+    "DirectoryAssociationVerified":  false,
+    "FileToTocOwnershipVerified":  false,
+    "GlobalFilenameTableBoundariesVerified":  false,
+    "ObjectReferencesVerified":  false,
+    "GameplayFunctionVerified":  false,
+    "GatheringCoordinatesVerified":  false,
+    "Notes":  [
+                  "Candidate triplets and index progression are exploratory, not decoded records",
+                  "Holdout windows are every fifth nonoverlapping window, specified before testing",
+                  "Only .utoc read; no .ucas access, extraction or game modification"
+              ]
+}

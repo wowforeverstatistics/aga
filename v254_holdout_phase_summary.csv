@@ -1,0 +1,7 @@
+﻿"Group","Phase","Windows","Tested","Candidates","CandidateRatePercent","ConsecutivePlusOne","ConsecutiveOther","VerifiedRecordLayout"
+"Training","0","44","14719","2783","18.908","2014","25","False"
+"Holdout","0","10","3403","850","24.978","751","0","False"
+"Training","1","44","14718","115","0.781","0","24","False"
+"Holdout","1","10","3404","1","0.029","0","0","False"
+"Training","2","44","14718","296","2.011","1","71","False"
+"Holdout","2","10","3403","98","2.88","4","19","False"
