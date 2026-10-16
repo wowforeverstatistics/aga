@@ -1,0 +1,19 @@
+﻿{
+    "Tool":  "AGA v30.2",
+    "Baseline":  "Reused v30.1 reports",
+    "Mode":  "Read-only filename prefix role hypotheses and same-folder lexical associations",
+    "InputFamilies":  1,
+    "InputMeshFamilies":  137,
+    "InputNonMeshFamilies":  476,
+    "ExamplePathRows":  0,
+    "PotentiallyOverlookedExamplePaths":  0,
+    "LexicalAssociations":  0,
+    "Errors":  1,
+    "RuntimeSeconds":  0.131,
+    "Notes":  [
+                  "Only paths included in v30.1 ExamplePaths are analyzed; not exhaustive asset inventory",
+                  "FT, SM, SK, PHYS and SKEL meanings are filename-prefix hypotheses",
+                  "Same-folder lexical associations are not serialized dependencies",
+                  "No .ucas reads, game changes or coordinates"
+              ]
+}
