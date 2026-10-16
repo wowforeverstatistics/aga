@@ -1,0 +1,32 @@
+﻿{
+    "Tool":  "AGA v27.4",
+    "Baseline":  "v27.3 preserved; not executed",
+    "Mode":  "Alternative-terminal transition prediction and out-of-sample falsification",
+    "InputContainer":  "pakchunk300-WindowsClient.utoc",
+    "InputBytes":  850734,
+    "RegionStart":  200000,
+    "RegionEndExclusive":  418106,
+    "TransitionObservationRows":  43,
+    "FrozenTrainingModelRows":  13,
+    "PredictionRows":  258,
+    "ModelScorecardRows":  36,
+    "ConfusionMatrixRows":  32,
+    "NegativeControlRows":  6,
+    "Errors":  0,
+    "RuntimeSeconds":  4.046,
+    "IndependentRecordLayoutVerified":  false,
+    "IndependentTransitionPredictionSemanticsVerified":  false,
+    "IndependentFilenameIndexMappingVerified":  false,
+    "DirectoryAssociationVerified":  false,
+    "FileToTocOwnershipVerified":  false,
+    "GatheringCoordinatesVerified":  false,
+    "Notes":  [
+                  "Model rules are frozen from phase-zero training windows only before holdout evaluation",
+                  "Next-state labels: Zero, One, High400, HighA000, Other",
+                  "Source eligibility uses candidate index and alternative terminal only; successor not preselected",
+                  "Holdout every fifth 4096-byte window; observations must remain within window",
+                  "Phase 1 and 2 are alignment controls, not model-training populations",
+                  "AlwaysZero and AlwaysOne baselines; terminal-high-bits deterministic rule; descriptive comparisons",
+                  "Read-only .utoc; no .ucas reads or game modifications"
+              ]
+}

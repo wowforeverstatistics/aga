@@ -1,0 +1,7 @@
+﻿"Group","Phase","EligibleEvents","NextZero","NextOne","NextHigh","SameIndex","IndependentEvidence"
+"Training","0","32","22","0","10","9","False"
+"Training","1","0","0","0","0","0","False"
+"Training","2","0","0","0","0","0","False"
+"Holdout","0","11","8","0","3","3","False"
+"Holdout","1","0","0","0","0","0","False"
+"Holdout","2","0","0","0","0","0","False"
