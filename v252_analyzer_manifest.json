@@ -1,0 +1,31 @@
+﻿{
+    "Tool":  "AGA v25.2",
+    "Baseline":  "v25.1 preserved; not executed",
+    "Mode":  "Nonoverlapping metadata-region metrics and packed-field falsification",
+    "InputContainer":  "pakchunk300-WindowsClient.utoc",
+    "InputBytes":  850734,
+    "RegionStart":  200000,
+    "RegionEndExclusive":  418106,
+    "WindowBytes":  4096,
+    "WindowControlRows":  216,
+    "CandidateTransitions":  14,
+    "PackedMaskRows":  16,
+    "PackedAlignmentControlRows":  16,
+    "BlueprintIndexOccurrences":  11,
+    "RuntimeSeconds":  1.576,
+    "Errors":  0,
+    "IndependentSectionBoundariesVerified":  false,
+    "PackedFieldMeaningVerified":  false,
+    "IndependentFilenameIndexMappingVerified":  false,
+    "DirectoryAssociationVerified":  false,
+    "FileToTocOwnershipVerified":  false,
+    "GlobalFilenameTableBoundariesVerified":  false,
+    "ObjectReferencesVerified":  false,
+    "GameplayFunctionVerified":  false,
+    "GatheringCoordinatesVerified":  false,
+    "Notes":  [
+                  "Window transitions are statistical hypotheses, not parsed section boundaries",
+                  "Bit masks do not prove packed filename-index fields",
+                  "Read-only .utoc only; no .ucas reads, extraction or game modification"
+              ]
+}
