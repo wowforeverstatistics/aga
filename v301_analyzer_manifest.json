@@ -1,0 +1,18 @@
+﻿{
+    "Tool":  "AGA v30.1",
+    "Baseline":  "Reused error-free v30.0 reports",
+    "Mode":  "Read-only mesh candidate quality and explainable heuristic prioritization",
+    "MeshCandidateFamilies":  137,
+    "NonMeshFamilies":  476,
+    "TotalFamilies":  613,
+    "PriorityA":  72,
+    "PriorityB":  58,
+    "PriorityC":  7,
+    "Errors":  0,
+    "RuntimeSeconds":  0.37,
+    "Notes":  [
+                  "Scores are filename-derived research priorities, not probabilities",
+                  "No gameplay, references or coordinates verified",
+                  "No .ucas reads or game modifications"
+              ]
+}

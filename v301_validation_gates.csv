@@ -1,0 +1,7 @@
+﻿"Gate","Verified","Evidence"
+"V300BaselineAccepted","True","v30.0 manifest, errors and catalog count checked"
+"MeshCandidatesSeparated","True","StructuralRole=ContainsMeshCandidate"
+"ExplainableHeuristicPriority","True","Scores, reasons and caution flags exported"
+"GameplayHarvestabilityVerified","False","No independent gameplay evidence"
+"SerializedReferencesVerified","False","No payload decoding"
+"WorldCoordinatesVerified","False","No coordinate discovery"
