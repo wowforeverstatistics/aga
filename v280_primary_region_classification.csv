@@ -1,0 +1,8 @@
+﻿"Container","Section","Start","EndExclusive","Relation","Status","IndependentBoundaryVerified"
+"pakchunk300-WindowsClient.utoc","Header","0","144","Before","DocumentedWidth","False"
+"pakchunk300-WindowsClient.utoc","ChunkIds","144","89016","Before","DocumentedWidth","False"
+"pakchunk300-WindowsClient.utoc","OffsetLengths","89016","163076","Before","DocumentedWidth","False"
+"pakchunk300-WindowsClient.utoc","CompressedBlockEntries","163076","317384","Partial","DocumentedWidth","False"
+"pakchunk300-WindowsClient.utoc","CompressionMethodNames","317384","317384","Empty","CountTimesWidth","False"
+"pakchunk300-WindowsClient.utoc","DirectoryAtEOF_Hypothesis","509940","850734","After","UnverifiedCandidate","False"
+"pakchunk300-WindowsClient.utoc","UnresolvedAfterKnownSections","317384","850734","Partial","NotYetClassified","False"

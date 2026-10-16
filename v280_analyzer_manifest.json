@@ -1,0 +1,27 @@
+﻿{
+    "Tool":  "AGA v28.0",
+    "Baseline":  "v27.9 preserved; not executed",
+    "Mode":  "Known IoStore section arithmetic, directory placement hypotheses and perfect-hash uncertainty",
+    "InputFolder":  "F:\\Steam\\steamapps\\common\\Ashes of Creation\\Game\\AOC\\Content\\Paks",
+    "RegionStart":  200000,
+    "RegionEndExclusive":  418106,
+    "Containers":  91,
+    "SectionRows":  546,
+    "DirectoryHypothesisRows":  182,
+    "OptionalSectionRows":  91,
+    "PrimaryRegionRows":  7,
+    "Errors":  0,
+    "RuntimeSeconds":  0.295,
+    "IndependentDirectoryIndexLocationVerified":  false,
+    "PerfectHashTablesParsed":  false,
+    "IndependentFilenameIndexMappingVerified":  false,
+    "FileToTocOwnershipVerified":  false,
+    "GatheringCoordinatesVerified":  false,
+    "Notes":  [
+                  "Fixed-width arrays use 12-byte chunk IDs, 10-byte offset-length entries, and 12-byte compressed block entries",
+                  "Version-dependent perfect-hash and overflow structures are not decoded or assigned invented sizes",
+                  "Directory at EOF and immediately after known sections are unverified hypotheses, not validated positions",
+                  "Region [200000,418106) is classified against arithmetic boundaries only",
+                  "Only .utoc headers are read; no .ucas access or game modifications"
+              ]
+}
