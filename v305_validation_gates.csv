@@ -1,0 +1,5 @@
+﻿"Gate","Verified","Evidence"
+"UtocChunkIdTableRead","True","Bounded read-only .utoc metadata access"
+"TargetPackageIdMappingVerified","False","No validated path-to-package-ID join"
+"SerializedDependenciesVerified","False","No package-store dependency record decoding"
+"WorldCoordinatesVerified","False","No placement data"

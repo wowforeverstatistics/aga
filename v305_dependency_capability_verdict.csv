@@ -1,0 +1,4 @@
+﻿"EvidenceLayer","Available","DependenciesVerified","Explanation"
+"Utoc header and chunk ID table","True","False","Chunk IDs alone cannot verify package relationships"
+"Package import/export dependency records","False","False","Not decoded by this metadata-only probe"
+"Optional v304 filename targets","True","False","Filename paths have no validated package ID mapping"

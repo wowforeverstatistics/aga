@@ -1,0 +1,17 @@
+﻿{
+    "Tool":  "AGA v30.5",
+    "Mode":  "Independent read-only IoStore metadata capability probe",
+    "ContainersFound":  91,
+    "ContainersRead":  91,
+    "ChunkIdEntriesObserved":  208714,
+    "OptionalV304Targets":  107,
+    "VerifiedDependencies":  0,
+    "Errors":  0,
+    "RuntimeSeconds":  0.646,
+    "Notes":  [
+                  "Reads .utoc headers and chunk ID tables only",
+                  "Does not open .ucas or .uasset",
+                  "Chunk ID types are raw observations, not validated semantics",
+                  "No asset dependency, gameplay, or coordinate verification"
+              ]
+}
