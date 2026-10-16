@@ -1,0 +1,15 @@
+﻿{
+    "Tool":  "AGA v29.6",
+    "Baseline":  "v29.5 executed unless ReuseV295Reports",
+    "Mode":  "Read-only parser diagnostic taxonomy, identity uncertainty and heuristic resource-family consistency",
+    "CatalogRows":  1799,
+    "ReviewQueueRows":  766,
+    "ResourceFamilyGroups":  636,
+    "Errors":  0,
+    "RuntimeSeconds":  332.877,
+    "Notes":  [
+                  "Warning categories can overlap",
+                  "Confidence is a filename-only heuristic, not resource identity verification",
+                  "No .ucas or asset payload reads, game edits or coordinates"
+              ]
+}

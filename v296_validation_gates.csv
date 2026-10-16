@@ -1,0 +1,6 @@
+﻿"Gate","Verified","Evidence"
+"V295BaselineAccepted","True","v29.5 manifest, error CSV and normalized catalog checked"
+"ExplicitWarningTaxonomy","True","Separate parser, identity and conservative-review columns"
+"IndependentResourceIdentity","False","Name and directory evidence only"
+"ActualGameplayProperties","False","No serialized payload decoding"
+"WorldCoordinates","False","No world data decoded"
