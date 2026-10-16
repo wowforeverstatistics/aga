@@ -1,0 +1,21 @@
+﻿{
+    "Tool":  "AGA v28.7",
+    "Baseline":  "v28.6 preserved; not executed",
+    "Mode":  "Little-endian block controls, full 24-byte metadata tail scan, bounded directory header inspection",
+    "Containers":  91,
+    "BlockComparisonWindows":  813,
+    "BlockAnomalySamples":  4476,
+    "MetadataContainers":  91,
+    "MetadataRecordsScanned":  208714,
+    "DirectorySamples":  90,
+    "Errors":  0,
+    "RuntimeSeconds":  10.553,
+    "Notes":  [
+                  "No .ucas access or modification",
+                  "BE and +1 byte shifted controls included",
+                  "Offset decreases diagnostic only",
+                  "Every metadata record scanned in bounded 2048-record batches",
+                  "Directory index is sampled, not parsed",
+                  "No filename ownership or coordinates verified"
+              ]
+}

@@ -1,0 +1,7 @@
+﻿"Gate","Verified","Reason"
+"MetadataEOFArithmetic","True","Candidate 24-byte metadata region reaches EOF; arithmetic only"
+"MetadataTailAllZero","True","Observed zero final U32 across all scanned entries, not proof of field identity"
+"LittleEndianRecordSemanticsIndependentlyVerified","False","BE and shifted negative controls are plausibility tests only"
+"DirectoryIndexParsed","False","Only bounded raw header samples captured"
+"FilenameOwnershipVerified","False","No verified filename mapping"
+"GatheringCoordinatesVerified","False","No coordinate extraction"
